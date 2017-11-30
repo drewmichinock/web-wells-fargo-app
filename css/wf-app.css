@@ -438,10 +438,13 @@ footer ul li a.active {
     border-radius: 300px;
     font-family: 'Verdana', 'Helvetica', 'Arial', 'sans-serif';
     letter-spacing: 2px;
-    text-transform: uppercase;
 }
 
 .btn-xl {
     font-size: 11px;
     padding: 15px 45px;
+}
+
+.logo {
+    width: 62px;
 }
