@@ -210,6 +210,11 @@ section.download {
 section.download h2 {
     font-size: 50px;
     margin-top: 0;
+    color: #fff;
+}
+
+section.download p {
+    color: #fff;
 }
 
 section.download .badges .badge-link {
@@ -405,9 +410,8 @@ footer ul li a.active {
 }
 
 .bg-primary {
-    background: #fdcc52;
-    background: -webkit-linear-gradient(#fdcc52, #fdc539);
-    background: linear-gradient(#fdcc52, #fdc539);
+    background: -webkit-linear-gradient(#BA2B43, #BA2B43);
+    background: linear-gradient(#BA2B43, #BA2B43);
 }
 
 .text-primary {
@@ -443,6 +447,7 @@ footer ul li a.active {
 .btn-xl {
     font-size: 11px;
     padding: 15px 45px;
+    color: #000;
 }
 
 .logo {
