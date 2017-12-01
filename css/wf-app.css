@@ -93,7 +93,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav>li>a.active {
-    color: #fdcc52 !important;
+    color: #FECA0A !important;
     background-color: transparent;
 }
 
@@ -103,12 +103,12 @@ section h2 {
 
 #mainNav .navbar-nav>li>a,
 #mainNav .navbar-nav>li>a:focus {
-    color: #222222;
+    color: #434343;
 }
 
 #mainNav .navbar-nav>li>a:hover,
 #mainNav .navbar-nav>li>a:focus:hover {
-    color: #fdcc52;
+    color: #FECA0A;
 }
 
 @media (min-width: 992px) {
@@ -136,7 +136,7 @@ section h2 {
         background-color: white;
     }
     #mainNav.navbar-shrink .navbar-brand {
-        color: #222222;
+        color: #434343;
     }
     #mainNav.navbar-shrink .navbar-brand:hover,
     #mainNav.navbar-shrink .navbar-brand:focus {
@@ -144,7 +144,7 @@ section h2 {
     }
     #mainNav.navbar-shrink .navbar-nav>li>a,
     #mainNav.navbar-shrink .navbar-nav>li>a:focus {
-        color: #222222;
+        color: #434343;
     }
     #mainNav.navbar-shrink .navbar-nav>li>a:hover,
     #mainNav.navbar-shrink .navbar-nav>li>a:focus:hover {
