@@ -117,7 +117,7 @@ section h2 {
         background-color: transparent;
     }
     #mainNav .navbar-brand {
-        color: fade(white, 70%);
+        color: fade(#fff, 70%);
     }
     #mainNav .navbar-brand:hover,
     #mainNav .navbar-brand:focus {
