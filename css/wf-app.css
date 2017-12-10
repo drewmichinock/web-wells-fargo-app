@@ -330,25 +330,25 @@ section.cta .overlay {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-section.contact {
+section.connect {
     text-align: center;
 }
 
-section.contact h2 {
+section.connect h2 {
     margin-top: 0;
     margin-bottom: 25px;
     color: #fff;
 }
 
-section.contact h2 i {
+section.connect h2 i {
     color: #fff;
 }
 
-section.contact ul.list-social {
+section.connect ul.list-social {
     margin-bottom: 0;
 }
 
-section.contact ul.list-social li a {
+section.connect ul.list-social li a {
     font-size: 40px;
     line-height: 80px;
     display: block;
@@ -358,27 +358,27 @@ section.contact ul.list-social li a {
     border-radius: 100%;
 }
 
-/*section.contact ul.list-social li.social-twitter a {
+/*section.connect ul.list-social li.social-twitter a {
     background-color: #1da1f2;
 }
 
-section.contact ul.list-social li.social-twitter a:hover {
+section.connect ul.list-social li.social-twitter a:hover {
     background-color: #0d95e8;
 }
 
-section.contact ul.list-social li.social-facebook a {
+section.connect ul.list-social li.social-facebook a {
     background-color: #3b5998;
 }
 
-section.contact ul.list-social li.social-facebook a:hover {
+section.connect ul.list-social li.social-facebook a:hover {
     background-color: #344e86;
 }
 
-section.contact ul.list-social li.social-instagram a {
+section.connect ul.list-social li.social-instagram a {
     background-color: #d73575;
 }
 
-section.contact ul.list-social li.social-instagram a:hover {
+section.connect ul.list-social li.social-instagram a:hover {
     background-color: #d73225;
 }*/
 
@@ -419,36 +419,37 @@ footer ul li a.active {
     color: #fdcc52;
 }
 
-.no-gutter>[class*='col-'] {
+/*.no-gutter>[class*='col-'] {
     padding-right: 0;
     padding-left: 0;
-}
+}*/
 
-.btn-outline {
-    color: white;
+/*.btn-outline {
+    color: #bb0826;
     border: 1px solid;
     border-color: white;
-}
+}*/
 
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: white;
-    border-color: #fdcc52;
-    background-color: #fdcc52;
+    text-decoration: underline;
+    color: #fff;
 }
 
 .btn {
-    border-radius: 300px;
+    border-radius: 2px;
     font-family: 'Verdana', 'Helvetica', 'Arial', 'sans-serif';
-    letter-spacing: 2px;
+    background-color: #bb0826;
+    color: #fff;
 }
 
 .btn-xl {
-    font-size: 11px;
+    font-family: 'Verdana', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 18px;
     padding: 15px 45px;
-    color: #000;
+    color: #fff;
 }
 
 .logo {
